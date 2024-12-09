@@ -46,3 +46,6 @@ One of the challenges in speaker Recognition is the **variety of voice character
 
 ### 3. **Incorporating More Environmental Variations**  
    Make sure recordings are made in different environments (e.g., quiet rooms, noisy backgrounds). This allows the model to handle a range of real-world scenarios.
+
+## Contributors:
+[Manohara](@Manohara-Ai)
